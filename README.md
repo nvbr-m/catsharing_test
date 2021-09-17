@@ -1,14 +1,14 @@
-#Cats Sharin
+# Cats Sharin
 
-##Usage
+## Usage
 `docker-compose up --build`
 
-##Api
-###`/api/doc` :
-###Swagger
+## Api
+### `/api/doc` :
+### Swagger
 
-###`/api/cast` :
-#####GET:
+### `/api/cast` :
+##### GET:
 Output
 ```
 [
@@ -34,7 +34,7 @@ Output
     }
 ]
 ```
-#####Post:
+##### Post:
 Input
 ```
 [
